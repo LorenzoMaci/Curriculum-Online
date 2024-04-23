@@ -1,0 +1,31 @@
+Istruzioni per Capstone Project 1 - Curriculum online
+Specifiche del progetto
+Crea un file HTML denominato index.html.
+
+Utilizza la dichiarazione <!DOCTYPE html> all'inizio del file per indicare che si tratta di un documento HTML. (X)
+
+Crea una sezione principale che includa un elemento titolo con il testo "Il mio curriculum". (X)
+
+All'interno della sezione body, scrivi il codice HTML per creare un curriculum online che copra i seguenti aspetti: 
+
+Dichiarazione riassuntiva o obiettiva (X)
+
+Istruzione (elenco titoli, scuole e date ) (X)
+
+Esperienza lavorativa (elenco dei titoli professionali, dei datori di lavoro, delle date e delle responsabilità) (X)
+
+Competenze (elencare le competenze o le aree di competenza rilevanti) (X)
+
+Premi, certificazioni o altri risultati (elenca eventuali premi, certificazioni o altri risultati rilevanti) (X)
+
+Utilizza tag HTML appropriati per formattare il contenuto di ciascuna sezione, ad esempio h1 per i titoli delle sezioni e ul o ol per gli elenchi.(X)
+
+Utilizza i tag HTML per aggiungere una tua foto del profilo. (x)
+
+Utilizza tag di ancoraggio pertinenti per creare un sito Web multipagina, elencando altri aspetti del tuo curriculum come hobby e dettagli di contatto. (x)
+
+Aggiungi un elemento footer con il tuo nome e qualsiasi informazione sul copyright o altre esclusioni di responsabilità. (Suggerimento: usa i documenti MDN per cose che non sai come fare: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/footer (X)
+
+Salva il file index.html e aprilo in un browser web per assicurarti che venga visualizzato correttamente. (X)
+
+Aggiungi il tuo sito web al tuo GitHub per iniziare a costruire il tuo portfolio.
